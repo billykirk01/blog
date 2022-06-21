@@ -1,4 +1,6 @@
-import blog from "https://raw.githubusercontent.com/billykirk01/deno_blog/main/blog.tsx";
+// import blog from "https://raw.githubusercontent.com/billykirk01/deno_blog/main/blog.tsx";
+import blog from "/home/billy/Development/deno_blog/blog.tsx";
+
 
 import "https://esm.sh/prismjs@1.27.0/components/prism-typescript?no-check";
 import "https://esm.sh/prismjs@1.27.0/components/prism-go?no-check";
@@ -13,6 +15,8 @@ blog({
   avatarClass: "rounded-full",
   author: "Billy Kirk",
   background: "#f9f9f9",
+  lang: "en",
+  timezone: "en-US",
   links: [
     { title: "Email", url: "mailto:kirk.william.c@gmail.com" },
     { title: "GitHub", url: "https://github.com/billykirk01" },

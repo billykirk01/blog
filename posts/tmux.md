@@ -1,6 +1,6 @@
 ---
 title: tmux tips and tricks
-publish_date: 2022-06-20
+publish_date: 2022-06-21 08:00:00
 snippet: my tmux cheat sheat
 ---
 `tmux` start a new session
