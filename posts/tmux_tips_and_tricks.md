@@ -11,7 +11,7 @@ snippet: my tmux cheat sheat
 
 `tmux a` attach to the most recent session
 
-`tmux attach-session -t name` attach to a named session
+`tmux a -t name` attach to a named session
 
 ## Sessions
 _Use these with the prefix `Ctrl-b`_
