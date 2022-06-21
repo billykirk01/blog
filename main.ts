@@ -1,5 +1,5 @@
-// import blog from "https://raw.githubusercontent.com/billykirk01/deno_blog/main/blog.tsx";
-import blog from "/home/billy/Development/deno_blog/blog.tsx";
+import blog from "https://raw.githubusercontent.com/billykirk01/deno_blog/main/blog.tsx";
+// import blog from "/home/billy/Development/deno_blog/blog.tsx";
 
 
 import "https://esm.sh/prismjs@1.27.0/components/prism-typescript?no-check";
