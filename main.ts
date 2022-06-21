@@ -1,4 +1,4 @@
-import blog from "https://deno.land/x/blog@0.3.3/blog.tsx";
+import blog from "https://raw.githubusercontent.com/billykirk01/deno_blog/main/blog.tsx";
 
 import "https://esm.sh/prismjs@1.27.0/components/prism-typescript?no-check";
 import "https://esm.sh/prismjs@1.27.0/components/prism-go?no-check";
@@ -8,6 +8,7 @@ import "https://esm.sh/prismjs@1.27.0/components/prism-python?no-check";
 
 blog({
   title: "Billy Kirk",
+  description: "I love building applications for the web primarily with Deno 🦕 and Svelte 🧡 and I occasionally dabble in systems programming with Rust 🦀 and Go 💙",
   avatar: "https://avatars.githubusercontent.com/u/30280510?v=4",
   avatarClass: "rounded-full",
   author: "Billy Kirk",
