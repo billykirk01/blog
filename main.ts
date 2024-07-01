@@ -1,5 +1,5 @@
 import blog from "https://raw.githubusercontent.com/billykirk01/deno_blog/main/blog.tsx";
-// import blog from "/home/billy/Development/deno_blog/blog.tsx";
+// import blog from "/home/billy/development/deno/deno_blog/blog.tsx";
 
 blog({
   title: "Billy Kirk",
